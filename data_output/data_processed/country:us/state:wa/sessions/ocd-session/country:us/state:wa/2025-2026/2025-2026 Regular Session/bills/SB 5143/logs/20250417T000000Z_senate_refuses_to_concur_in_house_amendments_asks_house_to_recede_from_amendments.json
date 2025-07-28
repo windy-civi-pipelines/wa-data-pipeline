@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate refuses to concur in House amendments.  Asks House to recede from amendments.",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5143"
+}

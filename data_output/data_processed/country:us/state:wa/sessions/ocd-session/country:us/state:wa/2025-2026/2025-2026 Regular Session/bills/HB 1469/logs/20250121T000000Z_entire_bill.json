@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 1469",
+  "title": "Delaying the use of the ASAM 4 criteria, treatment criteria for addictive, substance related, and co-occurring conditions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Health Care & Wellness.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Macri",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Macri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ormsby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ormsby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/1469.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/1469.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "48.43.764",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=48.43.764"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "71.24.619",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=71.24.619"
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://apps.leg.wa.gov/billinfo/summary.aspx?bill=1469&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "scraped_at": "2025-07-28T06:28:10+00:00",
+  "_id": "06cf5a28-6b7c-11f0-8e61-f2d6fbda17c6"
+}

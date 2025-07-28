@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "And refer to Health & Long-Term Care.",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5481"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5745"
+}

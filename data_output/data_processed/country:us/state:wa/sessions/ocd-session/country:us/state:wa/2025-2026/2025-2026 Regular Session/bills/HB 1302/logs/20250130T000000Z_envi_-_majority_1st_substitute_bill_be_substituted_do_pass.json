@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "ENVI - Majority; 1st substitute bill be substituted, do pass.",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1302"
+}

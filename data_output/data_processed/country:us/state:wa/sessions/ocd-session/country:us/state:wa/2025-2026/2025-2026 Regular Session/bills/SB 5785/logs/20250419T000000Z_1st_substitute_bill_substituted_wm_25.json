@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "1st substitute bill substituted (WM 25).",
+    "date": "2025-04-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5785"
+}

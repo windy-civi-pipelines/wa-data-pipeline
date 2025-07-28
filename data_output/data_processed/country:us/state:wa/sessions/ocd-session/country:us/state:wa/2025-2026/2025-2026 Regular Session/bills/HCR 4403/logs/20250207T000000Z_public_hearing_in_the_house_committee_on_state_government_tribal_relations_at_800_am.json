@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the House Committee on State Government & Tribal Relations at 8:00 AM.",
+    "date": "2025-02-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR 4403"
+}

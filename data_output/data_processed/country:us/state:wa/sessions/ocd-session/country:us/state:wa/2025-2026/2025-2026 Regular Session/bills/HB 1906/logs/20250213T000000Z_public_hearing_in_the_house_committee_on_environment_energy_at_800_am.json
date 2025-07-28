@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the House Committee on Environment & Energy at 8:00 AM.",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1906"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to second reading for amendment.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5571"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Effective date 1/1/2026.",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1173"
+}

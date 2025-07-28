@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Vote on third reading will be reconsidered.",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1355"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee relieved of further consideration.",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1317"
+}

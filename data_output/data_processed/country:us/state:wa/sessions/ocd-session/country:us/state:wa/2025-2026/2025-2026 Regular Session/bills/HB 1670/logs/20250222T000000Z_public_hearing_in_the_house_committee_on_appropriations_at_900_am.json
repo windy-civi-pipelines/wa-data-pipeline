@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the House Committee on Appropriations at 9:00 AM.",
+    "date": "2025-02-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1670"
+}

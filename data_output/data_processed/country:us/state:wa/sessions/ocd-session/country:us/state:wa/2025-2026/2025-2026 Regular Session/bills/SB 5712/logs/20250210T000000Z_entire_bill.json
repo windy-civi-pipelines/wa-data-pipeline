@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 5712",
+  "title": "Establishing a presumption of compliance for entities covered under the state\u2019s industrial stormwater general permit under certain circumstances.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Environment, Energy & Technology.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boehnke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boehnke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Slatter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Slatter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nobles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nobles\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Bills/5712.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Bills/5712.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "90.48",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=90.48"
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://apps.leg.wa.gov/billinfo/summary.aspx?bill=5712&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "scraped_at": "2025-07-28T07:01:52+00:00",
+  "_id": "bc09bd3a-6b80-11f0-8e61-f2d6fbda17c6"
+}

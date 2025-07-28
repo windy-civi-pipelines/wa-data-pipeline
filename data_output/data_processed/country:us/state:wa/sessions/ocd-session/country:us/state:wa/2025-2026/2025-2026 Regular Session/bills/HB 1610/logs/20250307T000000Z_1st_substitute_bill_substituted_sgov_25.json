@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "1st substitute bill substituted (SGOV 25).",
+    "date": "2025-03-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1610"
+}

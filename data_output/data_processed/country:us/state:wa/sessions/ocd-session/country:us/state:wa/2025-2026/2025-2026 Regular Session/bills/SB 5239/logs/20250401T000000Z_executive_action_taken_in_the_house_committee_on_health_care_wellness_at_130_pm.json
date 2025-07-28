@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action taken in the House Committee on Health Care & Wellness at 1:30 PM.",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5239"
+}

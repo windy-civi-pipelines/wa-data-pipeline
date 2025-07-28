@@ -1,0 +1,78 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2001",
+  "title": "Sunsetting all nonconstitutionally mandated state agencies, commissions, boards, task forces, work groups, and councils every 10 years absent affirmative reestablishment by the legislature.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to State Government & Tribal Relations.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dufault",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dufault\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/2001.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/2001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "43",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=43"
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://apps.leg.wa.gov/billinfo/summary.aspx?bill=2001&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "scraped_at": "2025-07-28T06:58:37+00:00",
+  "_id": "4832ed0a-6b80-11f0-8e61-f2d6fbda17c6"
+}

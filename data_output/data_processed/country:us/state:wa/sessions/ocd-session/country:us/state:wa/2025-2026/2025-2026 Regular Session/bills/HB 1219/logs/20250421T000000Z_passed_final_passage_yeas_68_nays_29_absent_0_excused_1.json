@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed final passage; yeas, 68; nays, 29; absent, 0; excused, 1.",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1219"
+}

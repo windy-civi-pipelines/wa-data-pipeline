@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First reading, referred to Appropriations.",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5764"
+}

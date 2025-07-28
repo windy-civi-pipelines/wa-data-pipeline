@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action taken in the House Committee on Local Government at 10:30 AM.",
+    "date": "2025-02-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1600"
+}

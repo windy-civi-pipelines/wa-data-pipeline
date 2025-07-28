@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the House Committee on Health Care & Wellness at 8:00 AM.",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5244"
+}

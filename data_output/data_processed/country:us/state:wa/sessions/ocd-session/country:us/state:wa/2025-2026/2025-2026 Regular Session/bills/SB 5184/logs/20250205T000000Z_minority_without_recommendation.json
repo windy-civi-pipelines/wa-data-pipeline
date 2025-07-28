@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Minority; without recommendation.",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5184"
+}

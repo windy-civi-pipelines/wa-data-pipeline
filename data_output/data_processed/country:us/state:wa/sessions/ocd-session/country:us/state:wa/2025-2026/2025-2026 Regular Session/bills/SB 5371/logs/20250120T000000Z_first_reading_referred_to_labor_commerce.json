@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First reading, referred to Labor & Commerce.",
+    "date": "2025-01-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5371"
+}

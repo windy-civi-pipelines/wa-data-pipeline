@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Effective date 7/27/2025.",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1718"
+}

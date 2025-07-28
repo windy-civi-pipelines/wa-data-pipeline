@@ -1,0 +1,78 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 5618",
+  "title": "Concerning transparency in college admissions.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Higher Education & Workforce Development.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boehnke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boehnke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Bills/5618.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Bills/5618.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28b.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28b.10"
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://apps.leg.wa.gov/billinfo/summary.aspx?bill=5618&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "scraped_at": "2025-07-28T06:01:02+00:00",
+  "_id": "3c66c648-6b78-11f0-8e61-f2d6fbda17c6"
+}

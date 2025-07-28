@@ -1,0 +1,168 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 1153",
+  "title": "Concerning urban forest management ordinances.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled for introduction.",
+      "date": "2025-01-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First reading, referred to Agriculture & Natural Resources.",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Public hearing in the House Committee on Agriculture & Natural Resources at 8:00 AM.",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Executive session scheduled, but no action was taken in the House Committee on Agriculture & Natural Resources at 10:30 AM.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Executive session scheduled, but no action was taken in the House Committee on Agriculture & Natural Resources at 10:30 AM.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Duerr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Duerr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ramel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ramel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parshley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parshley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ormsby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ormsby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/1153.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/1153.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Report",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/1153%20HBA%20AGNR%2025.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "76.15.010",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=76.15.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "76.15.110",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=76.15.110"
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://apps.leg.wa.gov/billinfo/summary.aspx?bill=1153&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "scraped_at": "2025-07-28T07:00:21+00:00",
+  "_id": "861c5908-6b80-11f0-8e61-f2d6fbda17c6"
+}

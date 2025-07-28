@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the House Committee on Agriculture & Natural Resources at 8:00 AM.",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1508"
+}

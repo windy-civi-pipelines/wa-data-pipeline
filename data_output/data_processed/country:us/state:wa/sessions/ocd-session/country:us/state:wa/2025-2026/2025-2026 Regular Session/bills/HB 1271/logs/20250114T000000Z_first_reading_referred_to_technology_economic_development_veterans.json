@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First reading, referred to Technology, Economic Development, & Veterans.",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1271"
+}

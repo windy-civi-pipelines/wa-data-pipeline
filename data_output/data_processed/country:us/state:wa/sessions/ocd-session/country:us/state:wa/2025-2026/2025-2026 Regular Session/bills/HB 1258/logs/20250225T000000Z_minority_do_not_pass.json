@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Minority; do not pass.",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1258"
+}

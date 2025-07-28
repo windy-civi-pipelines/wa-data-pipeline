@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "ELHS - Majority; do pass.",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1848"
+}

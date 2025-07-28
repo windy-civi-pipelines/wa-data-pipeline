@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action taken in the Senate Committee on Ways & Means at 1:30 PM.",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1359"
+}

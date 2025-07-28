@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "And refer to Environment, Energy & Technology.",
+    "date": "2025-01-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5033"
+}

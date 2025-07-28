@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action taken in the Senate Committee on Early Learning & K-12 Education at 8:00 AM.",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5596"
+}

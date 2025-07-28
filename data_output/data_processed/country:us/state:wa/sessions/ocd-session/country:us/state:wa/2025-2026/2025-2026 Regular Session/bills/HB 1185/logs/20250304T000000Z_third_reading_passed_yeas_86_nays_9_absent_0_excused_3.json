@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Third reading, passed; yeas, 86; nays, 9; absent, 0; excused, 3.",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1185"
+}

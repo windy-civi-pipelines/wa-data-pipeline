@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SGTE - Majority; 1st substitute bill be substituted, do pass.",
+    "date": "2025-01-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5017"
+}

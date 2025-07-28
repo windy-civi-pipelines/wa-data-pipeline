@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PEW - Majority; do pass.",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1298"
+}

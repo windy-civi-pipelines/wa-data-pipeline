@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee amendment(s) adopted with no other amendments.",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5568"
+}

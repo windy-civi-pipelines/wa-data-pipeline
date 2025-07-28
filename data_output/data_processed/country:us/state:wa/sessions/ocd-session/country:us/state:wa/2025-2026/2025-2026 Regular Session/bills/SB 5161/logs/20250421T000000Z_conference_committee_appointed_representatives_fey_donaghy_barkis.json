@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference committee appointed.  Representatives Fey, Donaghy, Barkis.",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5161"
+}

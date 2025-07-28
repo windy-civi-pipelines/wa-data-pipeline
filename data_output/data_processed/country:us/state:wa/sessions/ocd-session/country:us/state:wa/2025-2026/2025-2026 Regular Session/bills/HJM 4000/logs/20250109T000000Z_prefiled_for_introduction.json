@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled for introduction.",
+    "date": "2025-01-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJM 4000"
+}
