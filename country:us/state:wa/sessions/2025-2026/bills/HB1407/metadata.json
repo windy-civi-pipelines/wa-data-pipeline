@@ -1,0 +1,178 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 1407",
+  "title": "Concerning offenses involving graffiti or other damage to property.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Community Safety.",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barkis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Barkis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hackney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hackney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacobsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacobsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caldier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caldier\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/1407.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/1407.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "13.40.0357",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=13.40.0357"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "36.28a.210",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=36.28a.210"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9.94a",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9.94a"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9.94a.515",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9.94a.515"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9.94a.533",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9.94a.533"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9a.04.110",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9a.04.110"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9a.20.030",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9a.20.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9a.48",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9a.48"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "9a.48.105",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9a.48.105"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=1407&Year=2025&Initiative=false",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:55:02Z"
+  }
+}

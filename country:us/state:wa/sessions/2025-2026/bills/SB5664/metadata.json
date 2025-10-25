@@ -1,0 +1,178 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 5664",
+  "title": "Concerning impaired driving.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Law & Justice.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fortunato",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fortunato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lovick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lovick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Bills/5664.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Bills/5664.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "38.38.760",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=38.38.760"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "43.59",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.59"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.20.308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.20.308"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.20.3101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.20.3101"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.25.090",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.25.090"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.61.502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.502"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.61.504",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.504"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.61.5055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.5055"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.61.506",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.506"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "66.08",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=66.08"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "66.44",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=66.44"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "79a.60.040",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=79a.60.040"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5664&Year=2025&Initiative=false",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:55:02Z"
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2044",
+  "title": "Addressing unexcused student absences.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Education.",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Committee relieved of further consideration.",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations.",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Public hearing in the House Committee on Appropriations at 9:00 AM.",
+      "date": "2025-04-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Executive action taken in the House Committee on Appropriations at 10:30 AM.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "APP - Majority; do pass.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Minority; do not pass.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Referred to Rules 2 Review.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Rules Committee relieved of further consideration.  Placed on second reading.",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Floor amendment(s) adopted.",
+      "date": "2025-04-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Rules suspended.  Placed on Third Reading.",
+      "date": "2025-04-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Third reading, passed; yeas, 55; nays, 38; absent, 0; excused, 5.",
+      "date": "2025-04-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "First reading, referred to Ways & Means.",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Public hearing in the Senate Committee on Ways & Means at 1:30 PM.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "Executive session scheduled, but no action was taken in the Senate Committee on Ways & Means at 1:30 PM.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    },
+    {
+      "description": "By resolution, returned to House Rules Committee for third reading.",
+      "date": "2025-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ormsby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ormsby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ormsby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ormsby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parshley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parshley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parshley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parshley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macri",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macri",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregerson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregerson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregerson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregerson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Engrossed Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/2044.E.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/2044.E.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/2044.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/2044.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment ABEL WARG 247",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/2044%20AMH%20ABEL%20WARG%20247.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment BURN WARG 240",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/2044%20AMH%20BURN%20WARG%20240.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment GRIF WARG 245",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/2044%20AMH%20GRIF%20WARG%20245.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment GRIF WARG 246",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/2044%20AMH%20GRIF%20WARG%20246.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment KEAT CLAJ 331",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/2044%20AMH%20KEAT%20CLAJ%20331.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment STON H2203.2",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/2044%20AMH%20STON%20H2203.2.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Report",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/2044%20HBA%20APP%2025.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/2044%20HBR%20APP%2025.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Report for Engrossed",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/2044.E%20HBR%20APH%2025.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "2.56.140",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=2.56.140"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.015",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.015"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.020",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.020"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.025",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.025"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.0261",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.0261"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.030",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.035",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.035"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.090",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.090"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.151",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.151"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.225.900",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.225.900"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.710",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.710"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28a.715",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28a.715"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=2044&Year=2025&Initiative=false",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:55:01Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Speaker signed.",
+    "date": "2025-04-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5167"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "APP - Majority; do pass with amendment(s) but without amendment(s) by Technology, Economic Development, & Veterans.",
+    "date": "2025-04-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5677"
+}

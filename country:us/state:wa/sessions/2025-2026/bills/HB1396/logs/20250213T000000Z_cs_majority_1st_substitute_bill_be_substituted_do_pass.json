@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CS - Majority; 1st substitute bill be substituted, do pass.",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1396"
+}

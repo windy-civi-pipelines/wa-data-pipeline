@@ -1,0 +1,767 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 5129",
+  "title": "Concerning common interest communities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled for introduction.",
+      "date": "2025-01-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "First reading, referred to Housing.",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Public hearing in the Senate Committee on Housing at 1:30 PM.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Executive action taken in the Senate Committee on Housing at 1:30 PM.",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "HSG - Majority; 1st substitute bill be substituted, do pass.",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Passed to Rules Committee for second reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Placed on second reading consent calendar.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Placed on second reading.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "1st substitute bill substituted (HSG 25).",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Floor amendment(s) adopted.",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Rules suspended.  Placed on Third Reading.",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "First reading, referred to Civil Rights & Judiciary.",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Public hearing in the House Committee on Civil Rights & Judiciary at 10:30 AM.",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Executive action taken in the House Committee on Civil Rights & Judiciary at 10:30 AM.",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "CRJ - Majority; do pass.",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Minority; without recommendation.",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Referred to Rules 2 Review.",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Rules Committee relieved of further consideration.  Placed on second reading.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Rules suspended.  Placed on Third Reading.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Third reading, passed; yeas, 90; nays, 5; absent, 0; excused, 3.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor.",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Chapter 119, 2025 Laws.",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Effective date 7/27/2025*.",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pedersen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pedersen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nobles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nobles\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Engrossed Substitute Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Bills/5129-S.E.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Bills/5129-S.E.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Bills/5129-S.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Bills/5129-S.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Bills/5129.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Bills/5129.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute Passed Legislature",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/Senate%20Passed%20Legislature/5129-S.PL.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5129-S.PL.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Report for Engrossed Substitute",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/5129-S.E%20HBA%20CRJ%2025.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/5129-S.E%20HBR%20APH%2025.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/5129-S.E%20HBR%20CRJ%2025.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "61.24.030",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=61.24.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.32.250",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.32.250"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.32.260",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.32.260"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.32.290",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.32.290"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.32.350",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.32.350"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.34.076",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.34.076"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.34.332",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.34.332"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.34.393",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.34.393"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.34.395",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.34.395"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.38",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.38"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.38.035",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.035"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.38.062",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.062"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.38.095",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.095"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.38.180",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.180"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.010",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.015",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.015"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.210",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.210"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.300",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.300"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.360",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.360"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.365",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.365"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.405",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.405"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.410",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.410"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.435",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.435"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.445",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.445"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.455",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.455"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.475",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.475"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.480",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.480"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.485",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.485"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.509",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.509"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.513",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.513"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.525",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.525"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.530",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.530"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.535",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.535"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.580",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.580"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.600",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.600"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.610",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.610"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.635",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.635"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.640",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.640"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "64.90.665",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.665"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5129&Year=2025&Initiative=false",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:55:03Z"
+  }
+}

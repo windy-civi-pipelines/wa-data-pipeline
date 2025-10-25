@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "LAWS - Majority; do pass with amendment(s).",
+    "date": "2025-03-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5525"
+}

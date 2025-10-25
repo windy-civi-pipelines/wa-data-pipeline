@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled for introduction.",
+    "date": "2025-01-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1241"
+}

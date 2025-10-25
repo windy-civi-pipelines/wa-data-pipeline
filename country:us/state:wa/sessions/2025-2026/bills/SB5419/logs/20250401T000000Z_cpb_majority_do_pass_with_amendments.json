@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CPB - Majority; do pass with amendment(s).",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5419"
+}

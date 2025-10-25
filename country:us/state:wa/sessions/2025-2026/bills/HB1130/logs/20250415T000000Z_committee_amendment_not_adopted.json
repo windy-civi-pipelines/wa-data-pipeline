@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee amendment not adopted.",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1130"
+}

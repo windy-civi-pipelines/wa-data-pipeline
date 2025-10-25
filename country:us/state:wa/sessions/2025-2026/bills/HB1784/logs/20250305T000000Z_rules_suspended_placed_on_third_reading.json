@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rules suspended.  Placed on Third Reading.",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1784"
+}

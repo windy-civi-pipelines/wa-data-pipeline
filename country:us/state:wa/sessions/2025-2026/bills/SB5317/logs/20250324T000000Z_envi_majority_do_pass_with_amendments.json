@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "ENVI - Majority; do pass with amendment(s).",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5317"
+}

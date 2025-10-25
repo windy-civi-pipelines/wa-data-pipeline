@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the Senate Committee on Labor & Commerce at 10:30 AM.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1602"
+}

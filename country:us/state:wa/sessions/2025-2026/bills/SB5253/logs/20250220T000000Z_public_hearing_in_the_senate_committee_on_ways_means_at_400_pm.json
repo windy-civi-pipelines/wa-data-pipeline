@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5253"
+}

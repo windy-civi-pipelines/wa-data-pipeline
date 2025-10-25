@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, and placed on second reading calendar.",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1958"
+}

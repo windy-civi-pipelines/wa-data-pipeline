@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action taken in the Senate Committee on Labor & Commerce at 8:00 AM.",
+    "date": "2025-02-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5399"
+}

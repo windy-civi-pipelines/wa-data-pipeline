@@ -1,0 +1,1141 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2034",
+  "title": "Concerning termination and restatement of plan 1 of the law enforcement officers' and firefighters' retirement system.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading, referred to Appropriations.",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Public hearing in the House Committee on Appropriations at 4:00 PM.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Executive action taken in the House Committee on Appropriations at 1:30 PM.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "APP - Majority; 1st substitute bill be substituted, do pass.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Minority; do not pass.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Minority; without recommendation.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    },
+    {
+      "description": "Referred to Rules 2 Review.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:55:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ormsby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ormsby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fitzgibbon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fitzgibbon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregerson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregerson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macri",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macri\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Substitute Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/2034-S.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/2034-S.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bills/House%20Bills/2034.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Pdf/Bills/House%20Bills/2034.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Report",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/2034%20HBA%20APP%2025.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/2034%20HBR%20APP%2025.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "2.10.155",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=2.10.155"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "26.09.138",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=26.09.138"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28b.15.380",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28b.15.380"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "28b.15.520",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28b.15.520"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "35.21.935",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=35.21.935"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "35a.21.380",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=35a.21.380"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "36.28a.010",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=36.28a.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.205"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.270",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.270"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.350",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.350"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.393",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.393"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.400",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.400"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.440",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.440"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.450",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.450"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.04.803",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.04.803"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.05.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.05.011"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.05.320",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.05.320"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.16.020",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.16.020"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.16.060",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.16.060"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.16.145",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.16.145"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.18.015",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.18.015"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.18.104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.18.104"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.18.210",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.18.210"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.20.010",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.20.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.20.170",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.20.170"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.20.175",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.20.175"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.24.400",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.24.400"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.005",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.005"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.010",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.030",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.035",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.035"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.040",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.040"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.045",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.045"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.046",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.046"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.047",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.047"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.061",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.061"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.075",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.075"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.080",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.080"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.090",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.090"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.100",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.100"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.105",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.105"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.110",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.110"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.115",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.115"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.120",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.120"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.125"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.130",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.130"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.135",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.135"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.140",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.140"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.150",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.150"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.160",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.160"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.161",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.161"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.162",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.162"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.164",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.164"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.170",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.170"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.190",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.190"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.192",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.192"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.194",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.194"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.195",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.195"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.197",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.197"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.199",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.199"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.200",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.200"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.211",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.211"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.221",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.221"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.240",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.240"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.250",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.250"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.260",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.260"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.270",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.270"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.281",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.281"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.291",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.291"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.3901",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.3901"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.3902",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.3902"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.3903",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.3903"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.26.410",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.26.410"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.32.800",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.32.800"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.32.802",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.32.802"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.32.860",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.32.860"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.32.862",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.32.862"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.35.060",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.35.060"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.35.230",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.35.230"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.37.050",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.37.050"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.37.180",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.37.180"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.40.010",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.40.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.40.037",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.40.037"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.40.059",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.40.059"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.40.690",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.40.690"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.40.850",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.40.850"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.45.010",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.45.010"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.45.020",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.45.020"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.45.050",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.45.050"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.45.060",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.45.060"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.45.230",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.45.230"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.48.030",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.48.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.48.050",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.48.050"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.030",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.033",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.033"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.055"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.075",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.075"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.080",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.080"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.090",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.090"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.110",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.110"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.112",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.112"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.150",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.150"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.255",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.255"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.500",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.500"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.650",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.650"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.670",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.670"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.50.700",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.50.700"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "41.56.030",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.56.030"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "43.79a.040",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.79a.040"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "43.84.092",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.84.092"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "46.52.130",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.52.130"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "49.44.160",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=49.44.160"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "51.08.142",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=51.08.142"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "51.32.050",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=51.32.050"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "51.32.185",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=51.32.185"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "6.15.020",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=6.15.020"
+    },
+    {
+      "publication": "Revised Code of Washington",
+      "citation": "72.72.060",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=72.72.060"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=2034&Year=2025&Initiative=false",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wa/government",
+    "name": "Washington",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wa"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:55:03Z"
+  }
+}

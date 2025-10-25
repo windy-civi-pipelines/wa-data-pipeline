@@ -1,0 +1,329 @@
+{
+  "identifier": "",
+  "motion_text": "3rd Reading & Final Passage (#25)",
+  "motion_classification": [],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "2f5ed008-b150-11f0-aa83-dabaad88618f",
+  "bill_action": null,
+  "bill_identifier": "SB 5536",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alvarado",
+      "voter_id": "~{\"name\": \"Alvarado\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bateman",
+      "voter_id": "~{\"name\": \"Bateman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boehnke",
+      "voter_id": "~{\"name\": \"Boehnke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Braun",
+      "voter_id": "~{\"name\": \"Braun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christian",
+      "voter_id": "~{\"name\": \"Christian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cleveland",
+      "voter_id": "~{\"name\": \"Cleveland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Conway",
+      "voter_id": "~{\"name\": \"Conway\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cortes",
+      "voter_id": "~{\"name\": \"Cortes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dhingra",
+      "voter_id": "~{\"name\": \"Dhingra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dozier",
+      "voter_id": "~{\"name\": \"Dozier\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fortunato",
+      "voter_id": "~{\"name\": \"Fortunato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frame",
+      "voter_id": "~{\"name\": \"Frame\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gildon",
+      "voter_id": "~{\"name\": \"Gildon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Goehner",
+      "voter_id": "~{\"name\": \"Goehner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hansen",
+      "voter_id": "~{\"name\": \"Hansen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hasegawa",
+      "voter_id": "~{\"name\": \"Hasegawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holy",
+      "voter_id": "~{\"name\": \"Holy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kauffman",
+      "voter_id": "~{\"name\": \"Kauffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "King",
+      "voter_id": "~{\"name\": \"King\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Krishnadasan",
+      "voter_id": "~{\"name\": \"Krishnadasan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Liias",
+      "voter_id": "~{\"name\": \"Liias\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lovelett",
+      "voter_id": "~{\"name\": \"Lovelett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lovick",
+      "voter_id": "~{\"name\": \"Lovick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MacEwen",
+      "voter_id": "~{\"name\": \"MacEwen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCune",
+      "voter_id": "~{\"name\": \"McCune\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muzzall",
+      "voter_id": "~{\"name\": \"Muzzall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nobles",
+      "voter_id": "~{\"name\": \"Nobles\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Orwall",
+      "voter_id": "~{\"name\": \"Orwall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pedersen",
+      "voter_id": "~{\"name\": \"Pedersen\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ramos",
+      "voter_id": "~{\"name\": \"Ramos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riccelli",
+      "voter_id": "~{\"name\": \"Riccelli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robinson",
+      "voter_id": "~{\"name\": \"Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Salda\u00f1a",
+      "voter_id": "~{\"name\": \"Salda\\u00f1a\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Salomon",
+      "voter_id": "~{\"name\": \"Salomon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schoesler",
+      "voter_id": "~{\"name\": \"Schoesler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shewmake",
+      "voter_id": "~{\"name\": \"Shewmake\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Short",
+      "voter_id": "~{\"name\": \"Short\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Slatter",
+      "voter_id": "~{\"name\": \"Slatter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanford",
+      "voter_id": "~{\"name\": \"Stanford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Torres",
+      "voter_id": "~{\"name\": \"Torres\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trudeau",
+      "voter_id": "~{\"name\": \"Trudeau\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Valdez",
+      "voter_id": "~{\"name\": \"Valdez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wagoner",
+      "voter_id": "~{\"name\": \"Wagoner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Warnick",
+      "voter_id": "~{\"name\": \"Warnick\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Wellman",
+      "voter_id": "~{\"name\": \"Wellman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilson, C.",
+      "voter_id": "~{\"name\": \"Wilson, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilson, J.",
+      "voter_id": "~{\"name\": \"Wilson, J.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 46
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wslwebservices.leg.wa.gov/legislationservice.asmx/GetRollCalls?billNumber=5536&biennium=2025-26",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

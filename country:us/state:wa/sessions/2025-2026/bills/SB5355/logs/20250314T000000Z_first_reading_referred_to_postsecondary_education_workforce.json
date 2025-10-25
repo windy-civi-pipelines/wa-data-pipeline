@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First reading, referred to Postsecondary Education & Workforce.",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5355"
+}

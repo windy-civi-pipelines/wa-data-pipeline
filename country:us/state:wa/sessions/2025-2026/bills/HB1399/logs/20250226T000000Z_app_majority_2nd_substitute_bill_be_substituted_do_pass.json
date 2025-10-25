@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "APP - Majority; 2nd substitute bill be substituted, do pass.",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1399"
+}

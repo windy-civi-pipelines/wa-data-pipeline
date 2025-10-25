@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "President signed.",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1669"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "APP - Majority; do pass with amendment(s) but without amendment(s) by Finance.",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5576"
+}

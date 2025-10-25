@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action scheduled, but the motion to report the bill out of committee on Consumer Protection & Business at 1:30 pm on 4/2/2025 failed.",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5331"
+}
