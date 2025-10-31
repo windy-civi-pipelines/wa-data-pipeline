@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+ï»¿S-0423.1SENATE BILL 5200State of Washington69th Legislature2025 Regular SessionBySenators Wagoner, Christian, and FortunatoPrefiled 01/09/25.Read first time 01/13/25.Referred to Committee on Health & Long-Term Care.AN ACT Relating to veterans' medical foster homes; and amending RCW 70.128.030.BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:Sec. 1. RCW 70.128.030 and 2012 c 10 s 55 are each amended to read as follows:The following residential facilities shall be exempt from the operation of this chapter:(1) Nursing homes licensed under chapter 18.51 RCW;(2) Assisted living facilities licensed under chapter 18.20 RCW;(3) Facilities approved and certified under chapter 71A.22 RCW;(4) Residential treatment centers for individuals with mental illness licensed under chapter 71.24 RCW;(5) Hospitals licensed under chapter 70.41 RCW;(6) Homes for individuals with developmental disabilities licensed under chapter 74.15 RCW; and(7) A medical foster home, as defined in 38 C.F.R. 17.73, that is under the oversight and annually reviewed by the United States department of veterans affairs in which care is provided exclusively to three or fewer veterans.--- END ---
+
+
+================================================================================
+
+Raw Text:
+ï»¿S-0423.1SENATE BILL 5200State of Washington69th Legislature2025 Regular SessionBySenators Wagoner, Christian, and FortunatoPrefiled 01/09/25.Read first time 01/13/25.Referred to Committee on Health & Long-Term Care.AN ACT Relating to veterans' medical foster homes; and amending RCW 70.128.030.BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:Sec. 1. RCW 70.128.030 and 2012 c 10 s 55 are each amended to read as follows:The following residential facilities shall be exempt from the operation of this chapter:(1) Nursing homes licensed under chapter 18.51 RCW;(2) Assisted living facilities licensed under chapter 18.20 RCW;(3) Facilities approved and certified under chapter 71A.22 RCW;(4) Residential treatment centers for individuals with mental illness licensed under chapter 71.24 RCW;(5) Hospitals licensed under chapter 70.41 RCW;(6) Homes for individuals with developmental disabilities licensed under chapter 74.15 RCW; and(7) A medical foster home, as defined in 38 C.F.R. 17.73, that is under the oversight and annually reviewed by the United States department of veterans affairs in which care is provided exclusively to three or fewer veterans.--- END ---
