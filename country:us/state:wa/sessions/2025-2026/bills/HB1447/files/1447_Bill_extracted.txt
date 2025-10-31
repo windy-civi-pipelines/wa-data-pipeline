@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+ï»¿H-0640.1HOUSE BILL 1447State of Washington69th Legislature2025 Regular SessionByRepresentatives Jacobsen, Marshall, Dufault, and WalshRead first time 01/21/25.Referred to Committee on Postsecondary Education & Workforce.AN ACT Relating to tracking Washington application for state financial aid award amounts; and adding a new section to chapter 28B.92 RCW.BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:NEW SECTION.Â Â Sec. 1. A new section is added to chapter 28B.92 RCW to read as follows:(1) Beginning with the 2025-26 academic year, the office shall track the amount of state aid awarded to each student who receives funds through the Washington application for state financial aid. The total award amounts collected must be made publicly available on the office's website.(2) Beginning December 1, 2026, the office shall annually report, in accordance with RCW 43.01.036, to the appropriate committees of the legislature on the following data:(a) The total number of students who applied for state financial aid using the Washington application for state financial aid;(b) The total number of students who received state financial aid through the Washington application for state financial aid; and(c) The total amount of state aid disbursed to each institution of higher education on behalf of a student who submitted a Washington application for state financial aid.--- END ---
+
+
+================================================================================
+
+Raw Text:
+ï»¿H-0640.1HOUSE BILL 1447State of Washington69th Legislature2025 Regular SessionByRepresentatives Jacobsen, Marshall, Dufault, and WalshRead first time 01/21/25.Referred to Committee on Postsecondary Education & Workforce.AN ACT Relating to tracking Washington application for state financial aid award amounts; and adding a new section to chapter 28B.92 RCW.BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:NEW SECTION.Â Â Sec. 1. A new section is added to chapter 28B.92 RCW to read as follows:(1) Beginning with the 2025-26 academic year, the office shall track the amount of state aid awarded to each student who receives funds through the Washington application for state financial aid. The total award amounts collected must be made publicly available on the office's website.(2) Beginning December 1, 2026, the office shall annually report, in accordance with RCW 43.01.036, to the appropriate committees of the legislature on the following data:(a) The total number of students who applied for state financial aid using the Washington application for state financial aid;(b) The total number of students who received state financial aid through the Washington application for state financial aid; and(c) The total amount of state aid disbursed to each institution of higher education on behalf of a student who submitted a Washington application for state financial aid.--- END ---
